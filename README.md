@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thibault Feraux</h1>
-<h3 align="center">Student New Media Development</h3>
+<h3 align="center">Student AI Engieer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thibaultferaux&label=Profile%20views&color=19b40e&style=flat" alt="thibaultferaux" /> </p>
 
