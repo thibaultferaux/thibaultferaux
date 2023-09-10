@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thibaultferaux&label=Profile%20views&color=19b40e&style=flat" alt="thibaultferaux" /> </p>
 
-- 🌱 I’m currently learning **React, React Native, Node.js, PHP, Python**
+- 🌱 I’m currently learning **Python, Machine Learning, Neural Networks**
 
 - 👨‍💻 View more of me at [https://www.thibaultferaux.be/](https://www.thibaultferaux.be/)
 
