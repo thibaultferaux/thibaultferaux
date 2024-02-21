@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thibaultferaux&label=Profile%20views&color=19b40e&style=flat" alt="thibaultferaux" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Containers, Cloud Services, C# .NET**
+- 🌱 I’m currently learning **Machine Learning, Big Data Priciples, Algorithms & Maths, C# .NET**
 
 - 👨‍💻 View more of me at [https://www.thibaultferaux.be/](https://www.thibaultferaux.be/)
 
