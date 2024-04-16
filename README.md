@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Big Data Priciples, Algorithms & Maths, C# .NET**
 
-- 👨‍💻 View more of me at [https://www.thibaultferaux.be/](https://www.thibaultferaux.be/)
+- 👨‍💻 View more of me at [https://thibaultferaux.be/](https://thibaultferaux.be/)
 
 - 📫 How to reach me **thibault.feraux@hotmail.com**
 
