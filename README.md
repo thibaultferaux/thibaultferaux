@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thibaultferaux&label=Profile%20views&color=19b40e&style=flat" alt="thibaultferaux" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, Reinforcement Learning, GenAI, MLOps**
+- 🌱 I’m currently learning **LLM Engineering**
 
 - 👨‍💻 View more of me at [https://thibaultferaux.be/](https://thibaultferaux.be/)
 
